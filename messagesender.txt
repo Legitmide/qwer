@@ -1,0 +1,20 @@
+Today we will how to send messages from multiple or single accounts to multiple groups. you can send any numbers of messages . 
+So lets start 
+Write your messages in message.txt 
+now we will put our number in session.txt with api and api hash 
+Here is how we will put our number. 
+Then we need to login this number so lets start the script with one number then we will move with two and more numbers. 
+for login type python SessionCreator.py
+Login done as Previously I did the login 
+So lets move forward . 
+In group.txt we have to write the username of groups where we want to send messages 
+Their is some connection issue so lets start again 
+So now you can see the script has started and messages are being sended to the respective groups links provided.
+
+As the script asked for time in seconds , I had provided as 5 so the messages 
+send after 5 seonds 
+So now lets do with multiple Accounts
+Some minor updates we need to do . Now we are all let for 2 accounts 
+Now we need to login the seconds number 
+now we will use 8 seconds delay in messages 
+Now both the accounts are sending messages to both the groups 
